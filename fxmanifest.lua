@@ -1,9 +1,9 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'vehicle key management system'
-repository 'https://github.com/Qbox-project/qbx_vehiclekeys'
-version '1.0.2'
+description 'keybridge for mVehicle and okokVehicleShop'
+repository 'https://github.com/Jac00v/Keybridge'
+version '1.0.0'
 
 ox_lib 'locale'
 
