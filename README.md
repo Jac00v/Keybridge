@@ -12,8 +12,8 @@ Simple. Lightweight. Plug-and-play.
 
 ## ✨ Features
 
--   Automatic key assignment on vehicle purchase\
--   Seamless integration between `okokvehicleshopv2` and `mVehicle`\
+-   Automatic key assignment on vehicle purchase
+-   Seamless integration between `okokvehicleshopv2` and `mVehicle`
 -   Built specifically for Qbox\
 -   Clean and minimal structure
 
